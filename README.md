@@ -11,15 +11,15 @@ The project uses the FER2013 facial expression dataset, obtained from Kaggle, fo
 ## Technologies Used
 📌 Python 
 
-📌 Keras – CNN model development and emotion classification
+📌 Keras (CNN model development and emotion classification)
 
-📌 OpenCV – Real-time face detection and image processing
+📌 OpenCV (Real-time face detection and image processing)
 
-📌 NumPy – Numerical and image-data processing
+📌 NumPy (Numerical and image-data processing)
 
-📌 Streamlit – Interactive web application development
+📌 Streamlit (Interactive web application development)
 
-📌 CNN – Facial expression feature extraction and classification
+📌 CNN (Facial expression feature extraction and classification)
 
 ## Features
 
